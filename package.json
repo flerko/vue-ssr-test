@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "buefy": "^0.7.3",
+    "core-js": "^2.6.11",
     "lodash": "^4.17.19",
     "nuxt": "^2.4.5",
     "vuex": "^3.5.1"
