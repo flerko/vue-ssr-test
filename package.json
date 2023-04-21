@@ -19,7 +19,7 @@
     "buefy": "^0.7.3",
     "core-js": "^2.6.11",
     "lodash": "^4.17.19",
-    "nuxt": "^2.4.5",
+    "nuxt": "^2.16.3",
     "vuex": "^3.5.1"
   },
   "devDependencies": {
@@ -28,7 +28,7 @@
     "@storybook/addon-storyshots": "^5.0.3",
     "@storybook/addon-storysource": "^5.0.3",
     "@storybook/addon-viewport": "^5.0.3",
-    "@storybook/vue": "^5.0.3",
+    "@storybook/vue": "^7.0.6",
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^24.5.0",
